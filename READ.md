@@ -1,0 +1,3 @@
+# Medicinal-Plants-Recognition
+
+I've done finishing the guides and tutorial for image classification from TensorFlow. I downloaded the example application of "Recognize flowers on android" Recognize Flowers on Android. I used this example application for my first project "Medicinal/Herbs Recognition on Android" then used my own datasets for Medicinal only and retrained the model and it works fine after deploying to my smartphone. I wanted to change the result recognition. There's an already displayed result with an accuracy level of the label even it does not match the datasets. I want the output displayed if the input matches the datasets. Please help me, friends.
